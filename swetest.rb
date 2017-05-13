@@ -1,6 +1,6 @@
 class Swetest < Formula
   homepage "http://www.astro.com/swisseph/"
-  url "http://www.astro.com/ftp/swisseph/swe_unix_src_2.01.00.tar.gz"
+  url "http://www.astro.com/ftp/swisseph/swe_unix_src_2.06.tar.gz"
   sha256 "bd601d5e7982926a291eb6ed50ef846f85412411ebdc2a7ae67dbd200f952289"
 
   bottle do
